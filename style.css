@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color:lightblue;
+}
+
+img {
+    display: inline;
+    width: 300px;
+    padding: 30px;
+}
